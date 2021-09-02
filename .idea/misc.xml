@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../.gradle/caches/transforms-3/d86ba5a6a82f2d22a57bae5d65d61f06/transformed/jetified-exoplayer-ui-2.15.0/res/layout/exo_player_control_view.xml" value="0.19739583333333333" />
+        <entry key="app/src/main/res/drawable/bg_round_rect_white_50.xml" value="0.36564102564102563" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.35520833333333335" />
+        <entry key="app/src/main/res/layout/exo_player_control_view.xml" value="0.35520833333333335" />
+        <entry key="app/src/main/res/layout/layout_exoplayer_control_views.xml" value="0.35520833333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
